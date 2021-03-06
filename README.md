@@ -8,4 +8,4 @@ FastAPI also provide amazing support for swagger API docs
     app = FastAPI()              : INSTANCE
     @app.get('/')                : DECORATE
     def index():                 : FUNCTION
-      return 'Welcome to Filed Application'
+      return 'Welcome to FASTAPI Application'
